@@ -1,0 +1,181 @@
+[{
+    "id":"1",
+    "title": "Silla Purpura P",
+    "description":"Precio por unidad",
+    "code":"1",
+    "price":"$2.00",
+    "status":true,
+    "stock":77,
+    "category":"kid"
+ },
+ {
+    "id":"2",
+    "title": "Silla Purpura M",
+    "description":"Precio por unidad",
+    "code":"2",
+    "price":"$4.00",
+    "status":true,
+    "stock":777,
+    "category":"teen"
+ },
+ {
+    "id":"3",
+    "title": "Silla Purpura G",
+    "description":"Precio por unidad",
+    "code":"3",
+    "price":"$7.00",
+    "status":true,
+    "stock":400,
+    "category":"adult"
+ },
+ {
+    "id":"4",
+    "title": "Silla Verde P",
+    "description":"Precio por unidad",
+    "code":"4",
+    "price":"$2.00",
+    "status":true,
+    "stock":20,
+    "category":"kid"
+ },
+ {
+    "id":"5",
+    "title": "Silla Verde M",
+    "description":"Precio por unidad",
+    "code":"5",
+    "price":"$4.00",
+    "status":true,
+    "stock":27,
+    "category":"teen"
+ },
+ {
+    "id":"6",
+    "title": "Silla Verde G",
+    "description":"Precio por unidad",
+    "code":"6",
+    "price":"$7.00",
+    "status":true,
+    "stock":14,
+    "category":"adult"
+ },
+ {
+    "id":"7",
+    "title": "Silla Azul P",
+    "description":"Precio por unidad",
+    "code":"7",
+    "price":"$2.00",
+    "status":true,
+    "stock":77,
+    "category":"kid"
+ },
+ {
+    "id":"8",
+    "title": "Silla Azul M",
+    "description":"Precio por unidad",
+    "code":"8",
+    "price":"$4.00",
+    "status":true,
+    "stock":40,
+    "category":"teen"
+ },
+ {
+    "id":"9",
+    "title": "Silla Azul G",
+    "description":"Precio por unidad",
+    "code":"9",
+    "price":"$7.00",
+    "status":true,
+    "stock":7,
+    "category":"adult"
+ },
+ {
+    "id":"10",
+    "title": "Silla Amarilla P",
+    "description":"Precio por unidad",
+    "code":"10",
+    "price":"$2.00",
+    "status":true,
+    "stock":2,
+    "category":"kid"
+ },
+ {
+    "id":"11",
+    "title": "Silla Amarilla M",
+    "description":"Precio por unidad",
+    "code":"11",
+    "price":"$4.00",
+    "status":true,
+    "stock":100,
+    "category":"teen"
+ },
+ {
+    "id":"13",
+    "title": "Silla Amarilla G",
+    "description":"Precio por unidad",
+    "code":"13",
+    "price":"$7.00",
+    "status":true,
+    "stock":10,
+    "category":"adult"
+ },
+ {
+    "id":"14",
+    "title": "Silla Gris P",
+    "description":"Precio por unidad",
+    "code":"14",
+    "price":"$2.00",
+    "status":true,
+    "stock":82,
+    "category":"kid"
+ },
+ {
+    "id":"15",
+    "title": "Silla Gris M",
+    "description":"Precio por unidad",
+    "code":"15",
+    "price":"$4.00",
+    "status":true,
+    "stock":140,
+    "category":"teen"
+ },
+ {
+    "id":"16",
+    "title": "Silla Gris G",
+    "description":"Precio por unidad",
+    "code":"16",
+    "price":"$7.00",
+    "status":true,
+    "stock":98,
+    "category":"adult"
+ },
+ {
+    "id":"17",
+    "title": "Silla Negro P",
+    "description":"Precio por unidad",
+    "code":"17",
+    "price":"$2.00",
+    "status":true,
+    "stock":2,
+    "category":"kid"
+ },
+ {
+    "id":"18",
+    "title": "Silla Negro M",
+    "description":"Precio por unidad",
+    "code":"18",
+    "price":"$4.00",
+    "status":true,
+    "stock":25,
+    "category":"teen"
+ },
+ {
+    "id":"19",
+    "title": "Silla Negro G",
+    "description":"Precio por unidad",
+    "code":"19",
+    "price":"$7.00",
+    "status":true,
+    "stock":1,
+    "category":"adult"
+ }
+]
