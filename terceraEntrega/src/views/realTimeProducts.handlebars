@@ -1,0 +1,21 @@
+<form class="form" id="formCreateProduct">
+    <input class="input" type="text" id="title" placeholder="Ingrese nombre del producto" required/>
+    <input class="input" type="number" id="price" placeholder="Ingrese precio del producto" required/>
+    <input class="input" type="number" id="stock" placeholder="Ingrese stock del producto" required/>
+    <input class="input" type="text" id="category" placeholder="Ingrese categoría del producto" required/>
+    <button type="submit">Agregar Producto</button>
+</form>
+
+<div class="container" id="realTimeProducts">
+    {{#each products}}
+    <div class="each">
+        <h3>{{title}}</h3>
+        <p>Price: {{price}}</p>
+        <p>Stock: {{stock}}</p>
+        <p>Category: {{category}}</p>
+    </div>
+    {{/each}}
+</div>
+
+<script src="/socket.io/socket.io.js"></script>
+<script src="index.js"></script>
